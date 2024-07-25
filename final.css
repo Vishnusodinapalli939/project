@@ -1,0 +1,797 @@
+#main1{
+    background-image: url("./breeze/slide1.jpg");
+    height:660px;
+  }
+  #main2{
+    background-image: url("./breeze/slide2.jpg");
+    height:660px;
+  }
+  #main3{
+    background-image: url("./breeze/slide3.jpg");
+    height:660px;
+  }
+  .navbar-brand{
+    font-size: 30px;
+    position: relative;
+    left: 150px;
+    top: 5px;
+    cursor: pointer;
+    color:white;
+  }
+  .nav-item{
+    position:relative;
+    left:500px;
+    padding:20px;
+    color:white;
+  }
+  #drop{
+    position:relative;
+    left:400px;
+  }
+  #home{
+    position:relative;
+    top:10px;
+    opacity:0.6;
+  }
+ .li{
+    color:white;
+    text-decoration: none;
+    position:relative;
+    top:10px;
+ }
+  .li1 {
+    border: 1px solid;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 5px;
+    left:10px;
+    background-color: white;
+    
+  }
+  #down{
+    display:none;
+  }
+  #list2:hover~#down{
+    display:block;
+  }
+  #sea {
+    position: relative;
+    top: 3px;
+    left: 5px;
+    color: green;
+  }
+  .con {
+    position: relative;
+    left: 600px;
+    top: 140px;
+    /* position: static; */
+  }
+  .wel {
+    font-size: 20px;
+    color:white;
+    position:relative;
+    left:30px;
+  }
+  .new {
+    font-size: 40px;
+    position: relative;
+    left: -50px;
+    color:white;
+  }
+  .btn {
+    border-radius: 60px;
+    margin: 10px;
+    width:150px;
+    height:50px;
+    border:1px solid white;
+  }
+  #more{
+    color:white;
+  }
+  #more:hover{
+    color:green;
+    background-color: white;
+  }
+  #it{
+    background-color: white;
+    color:green;
+  }
+  #it:hover{
+    color:white;
+    background-color: green;
+  }
+  #pre{
+    position:relative;
+    /* top:100px; */
+    left:-80px;
+  }
+  #next{
+    position:relative;
+    /* top:100px; */
+    right:-80px;
+  }
+  .top {
+    position: relative;
+    left: 50px;
+    top: -40px;
+  }
+  .log1 {
+    position: relative;
+    left: 160px;
+    top:-80px;
+  }
+  .top1 {
+    position: relative;
+    left: 220px;
+    top: -110px;
+  }
+  .cls2{
+    position: relative;
+    top:-60px;
+  }
+  .about {
+    display: grid;
+    grid-template-columns: auto auto;
+    position:relative;
+    left:50px;
+    top:200px;
+    /* gap:10px; */
+  }
+  .we {
+    position: relative;
+    left: -450px;
+    top: -20px;
+    font-size: 30px;
+  }
+  .abo {
+    position: relative;
+    top: -50px;
+    left: 100px;
+    color: green;
+  }
+  .side {
+    position: relative;
+    left: 100px;
+  }
+  .side1 {
+    position: relative;
+    top: -130px;
+    left:100px;
+    font-size: 18px;
+  }
+  .btn2 {
+    color: white;
+    background-color: green;
+    padding: 15px;
+    border-radius: 40px;
+    position: relative;
+    top:-130px;
+  }
+  #more{
+    color:white;
+  }
+  #more:hover{
+    color:green;
+    background-color: white;
+  }
+  #it{
+    background-color: white;
+    color:green;
+  }
+  #it:hover{
+    color:white;
+    background-color: green;
+  }
+  .init {
+    position: relative;
+    top: 200px;
+    left: 150px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+  }
+  .c4 {
+    position: relative;
+    left: 80px;
+    top: -70px;
+  }
+  .cls1 {
+    position: relative;
+    left: 50px;
+  }
+  .subc{
+    position:relative;
+    top:50px;
+    left:350px;
+  }
+  .su{
+    background-image: url("./breeze/slide2.jpg");
+    position:relative;
+    top:200px;
+    height:400px;
+  }
+  .email{
+    width:400px;
+    border-radius: 60px;
+    padding: 10px;
+    position:relative;
+    top:10px;
+  }
+  .subp{
+    width:160px;
+    border-radius: 60px;
+    padding: 10px;
+    position:relative;
+    left:450px;
+    top:-40px;
+    background-color: white;
+    color: green;
+  }
+  .subc1{
+    position: relative;
+    left:240px;
+    top:20px;
+    color:white;
+  }
+  .don{
+    position: relative;
+    left:150px;
+    font-size: 40px;
+    color:white;
+  }
+  .viva{
+    color:white;
+    font-size: 18px;
+  }
+  .viva1{
+    position: relative;
+    left:80px;
+    color:white;
+    font-size: 18px;
+  }
+  .subp:hover{
+    background-color: green;
+    color:white;
+  }
+  .our{
+    position:relative;
+    top:300px;
+    left:100px;
+  }
+  .list{
+    position:relative;
+    left:-10px;
+  }
+  .some{
+    font-size: 40px;
+    color:black;
+    position:relative;
+    top:-20px;
+  }
+  .all1,.our1{
+    color: green;
+  }
+  .all{
+    position:relative;
+    top:300px;
+    left:100px;
+  }
+  .all:hover{
+    color: green;
+  }
+  #art,#design,#develop,#graphics{
+    position:relative;
+    top:-50px;
+    left:530px;
+  }
+  #art,#design,#develop,#graphics{
+    display:none;
+  }
+  .web:hover~#design{
+    display:block;
+  }
+  .web:hover~.gallery{
+    display:none;
+  }
+  .art1:hover~#art{
+    display:block;
+  }
+  .art1:hover~.gallery{
+    display:none;
+  }
+  .deve:hover~#develop{
+    display:block;
+  }
+  .deve:hover~.gallery{
+    display:none;
+  }
+  .gra:hover~#graphics{
+    display:block;
+  }
+  .gra:hover~.gallery{
+    display:none;
+  }
+  .gallery{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    gap:20px;
+    justify-content: end; 
+  }
+.digi,.young{
+  color:white;
+}
+.digital{
+  position:relative;
+  top:100px;
+  background-image: url("./breeze/slide3.jpg");
+  height:100vh;
+  width:100vw;
+}
+.digital2{
+  position:relative;
+  left:200px;
+  top:-500px;
+  display: flex;
+  gap:15px;
+  width:1100px;
+  /* flex-wrap: wrap; */
+  overflow-x:auto;
+  scrollbar-width: none;
+
+}
+.dot1{
+  font-size: 80px;
+  color:white;
+}
+.dot{
+  position:relative;
+  left:670px;
+  padding:10px;
+  top:-550px;
+}
+.digi{
+  position:relative;
+  left:600px;
+  top:40px;
+}
+.young{
+  position:relative;
+  left:450px;
+  font-size: 40px;
+  top:20px;
+}
+.white{
+  position:relative;
+  left:70px;
+  top:5px;
+  font-size: 20px;
+  color:white;
+}
+.white1{
+  position:relative;
+  left:90px;
+  font-size: 15px;
+  top:-5px;
+  color:white;
+}
+.contact{
+  position: relative;
+  top:-450px;
+  left:200px;
+  background-image: url("./breeze/map.png");
+  width:900px;
+  height:500px;
+}
+#img2{
+  position: relative;
+  top:-15px;
+}
+#img3{
+  position: relative;
+  top:-40px;
+}
+.call1{
+  position: relative;
+  left:70px;
+  top:-40px;
+}
+.info{
+  position: relative;
+  left:70px;
+  top:-50px;
+}
+#font{
+  position:relative;
+  left:60px;
+  top:200px;
+  padding:15px;
+}
+#font:hover{
+  background-color: green;
+  border-radius: 200px;
+ 
+}
+
+.cont{
+  color:green;
+}
+.www{
+  position: relative;
+  left:70px;
+  top:-80px;
+}
+.feel{
+  font-size: 30px;
+}
+.form{
+  position:relative;
+  left:350px;
+  top:-400px;
+}
+.name{
+  padding:15px;
+  width:350px;
+  margin:10px;
+}
+.area{
+  width:780px;
+  height:130px;
+  position:relative;
+  left:10px;
+  padding:10px;
+}
+.smn{
+  padding:10px;
+  border-radius: 40px;
+  background-color: rgba(21, 226, 21, 0.741);
+  color: white;
+  position:relative;
+  left:10px;
+}
+.footer{
+  position:relative;
+  top:-350px;
+  background-image: url("./breeze/footer.jpg");
+  height:200px;
+}
+.copy{
+  position:relative;
+  top:100px;
+  color:white;
+  left:180px;
+}
+.icon2,i,.us{
+  position:relative;
+  left:1200px;
+  color:white;
+  top:30px;
+}
+.us{
+  position: relative;
+  top:65px;
+  left:1100px;
+}
+@media screen and (min-width:320px) and (max-width:760px){
+
+  .con1 {
+    position: relative;
+    /* position: static; */
+    left:100px;
+  }
+  .wel {
+    font-size: 10px;
+    color:white;
+    position:relative;
+    left:30px;
+  }
+  .new {
+    font-size: 30px;
+    position: relative;
+    left: -70px;
+    color:white;
+  }
+  .btn {
+    border-radius: 60px;
+    margin: 10px;
+    width:150px;
+    height:50px;
+    border:1px solid white;
+    position:relative;
+    left:-60px;
+  }
+  #more{
+    color:white;
+  }
+  #more:hover{
+    color:green;
+    background-color: white;
+  }
+  #it{
+    background-color: white;
+    color:green;
+  }
+  #it:hover{
+    color:white;
+    background-color: green;
+  }
+  .about {
+    display: grid;
+    grid-template-columns: auto;
+    position:relative;
+    left:50px;
+    top:150px;
+    /* gap:10px; */
+  }
+  .abo{
+    position:relative;
+    left:-20px;
+  }
+  .we {
+    position: relative;
+    left: -20px;
+    top: -40px;
+    font-size: 30px;
+    text-wrap:wrap;
+  }
+  .top {
+    position: relative;
+    left: -50px;
+    top: -40px;
+  }
+  .log {
+    position: relative;
+    left: -120px;
+    top: 0px;
+  }
+  .log1 {
+    position: relative;
+    left: -170px;
+    top:5px;
+  }
+  .top1 {
+    position: relative;
+    left: -100px;
+    top: -30px;
+  }
+  #log2{
+    position: relative;
+    left: -120px;
+    top:30px;
+  }
+  #top2{
+    position: relative;
+    left: -60px;
+    top: -10px;
+  }
+  #log3{
+    position: relative;
+    left: -170px;
+    top:20px;
+  }
+  #top3{
+    position: relative;
+    left: -60px;
+    top: -10px;
+  }
+  .btn2 {
+    color: white;
+    background-color: green;
+    padding: 15px;
+    border-radius: 40px;
+    position: relative;
+    top:-80px;
+    left:-120px;
+  }
+  .side1 {
+    position: relative;
+    top: -80px;
+    left:-10px;
+    font-size: 18px;
+    text-wrap: wrap;
+  }
+  .init {
+    position: relative;
+    top: 200px;
+    left: 10px;
+    display: grid;
+    grid-template-columns: 400px;
+  }
+  .subc{
+    position:relative;
+    top:50px;
+    left:10px;
+  }
+  .subc1{
+    position: relative;
+    left:40px;
+    top:20px;
+    color:white;
+  }
+  .don{
+    position: relative;
+    left:10px;
+    font-size: 30px;
+    color:white;
+  }
+  .viva{
+    color:white;
+    font-size: 14px;
+  }
+  .viva1{
+    position: relative;
+    left:10px;
+    color:white;
+    font-size: 14px;
+  }
+  .email{
+    width:300px;
+    border-radius: 60px;
+    padding: 10px;
+    position:relative;
+    top:-10px;
+  }
+  .subp{
+    width:160px;
+    border-radius: 60px;
+    padding: 10px;
+    position:relative;
+    left:50px;
+    top:30px;
+    background-color: white;
+    color: green;
+  }
+  .our{
+    position:relative;
+    top:230px;
+    left:10px;
+  }
+  .some{
+    font-size: 30px;
+    color:black;
+    position:relative;
+    top:-20px;
+    text-wrap: wrap;
+  }
+  .all1,.our1{
+    color: green;
+  }
+  .all{
+    position:relative;
+    top:220px;
+    left:10px;
+    display:inline;
+    text-wrap: wrap;
+  }
+  #gall{
+    display:grid;
+    grid-template-columns: 10px;
+    position:absolute;
+    top:3150px;
+    left:20px;
+  }
+  #art,#design,#develop,#graphics{
+    position:relative;
+    left:10px;
+    top:230px;
+  }
+  .web:hover~#gall{
+    display:none;
+  }
+  .art1:hover~#gall{
+    display:none;
+  }
+  .deve:hover~#gall{
+    display:none;
+  }
+  .gra:hover~#gall{
+    display:none;
+  }
+  .img2{
+    height:200px
+  }
+  .digital{
+    position:relative;
+    top:1550px;
+    height:500px;
+  }
+  .digi{
+    position:relative;
+    left:100px;
+    top:40px;
+  }
+  .young{
+    position:relative;
+    left:20px;
+    font-size: 30px;
+    top:20px;
+    text-wrap: wrap;
+  }
+  .digital2{
+    position:relative;
+    top:1200px;
+    left:100px;
+    overflow-x:auto;
+    scrollbar-width: none;
+    width:200px;
+  }
+  .img1{
+    height:250px;
+
+  }
+  .white{
+    position:relative;
+    left:30px;
+    top:5px;
+    font-size: 10px;
+    color:white;
+  }
+  .white1{
+    position:relative;
+    left:40px;
+    font-size: 8px;
+    top:-5px;
+    color:white;
+  }
+  .contact{
+    position: relative;
+    top:1150px;
+    left:60px;
+    background-image: url("./breeze/map.png");
+    width:900px;
+    height:500px;
+  }
+  .form{
+    position:relative;
+    top:10px;
+    left:10px;
+  }
+  .footer{
+    position:relative;
+    top:1550px;
+  }
+  .copy{
+    position:relative;
+    top:100px;
+    color:white;
+    left:10px;
+    font-size: 15px;
+  }
+  .icon2,i,.us{
+    position:relative;
+    left:220px;
+    color:white;
+    top:70px;
+    font-size: 15px;
+  }
+  .us{
+    position: relative;
+    top:110px;
+    left:120px;
+  }
+  .name{
+    padding:15px;
+    width:150px;
+    margin:10px;
+  }
+  .area{
+    width:330px;
+    height:130px;
+    position:relative;
+    left:10px;
+    padding:10px;
+  }
+  .smn{
+    padding:10px;
+    border-radius: 40px;
+    background-color: rgba(21, 226, 21, 0.741);
+    color: white;
+    position:relative;
+    left:10px;
+  }
+ 
+}
+
+
+
+ 
+  
